@@ -1,0 +1,11 @@
+C:\SquareCalculation\SquareCalculation\bin\Debug\net6.0\SquareCalculation.deps.json
+C:\SquareCalculation\SquareCalculation\bin\Debug\net6.0\SquareCalculation.dll
+C:\SquareCalculation\SquareCalculation\bin\Debug\net6.0\SquareCalculation.pdb
+C:\SquareCalculation\SquareCalculation\obj\Debug\net6.0\SquareCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\SquareCalculation\SquareCalculation\obj\Debug\net6.0\SquareCalculation.AssemblyInfoInputs.cache
+C:\SquareCalculation\SquareCalculation\obj\Debug\net6.0\SquareCalculation.AssemblyInfo.cs
+C:\SquareCalculation\SquareCalculation\obj\Debug\net6.0\SquareCalculation.csproj.CoreCompileInputs.cache
+C:\SquareCalculation\SquareCalculation\obj\Debug\net6.0\SquareCalculation.dll
+C:\SquareCalculation\SquareCalculation\obj\Debug\net6.0\refint\SquareCalculation.dll
+C:\SquareCalculation\SquareCalculation\obj\Debug\net6.0\SquareCalculation.pdb
+C:\SquareCalculation\SquareCalculation\obj\Debug\net6.0\ref\SquareCalculation.dll
